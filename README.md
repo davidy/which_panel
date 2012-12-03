@@ -1,6 +1,6 @@
 # WhichPanel
 
-TODO: Write a gem description
+Displays debugging information for rendered pages
 
 ## Installation
 
